@@ -1,7 +1,7 @@
 # MeArm-V0.4-Robot-Arm
-Easy Python Script for MeArm Robot Arm
+Easy Python Script for MeArm Robot Arm using the adafruit 16 channel servo driver
 
-This is the building project i have followed to build the Robot Arm:
+This is the building project I have followed to build the Robot Arm:
 
 https://www.instructables.com/id/Pocket-Sized-Robot-Arm-meArm-V04/
 
