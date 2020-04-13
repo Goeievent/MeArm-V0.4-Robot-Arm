@@ -1,5 +1,5 @@
 # MeArm-V0.4-Robot-Arm
-Easy Python Script for MeArm Robot Arm using the adafruit 16 channel servo driver
+Easy Python Script for MeArm Robot Arm using the adafruit 16 channel servo driver and Raspberry Pi 4
 
 This is the building project I have followed to build the Robot Arm:
 
